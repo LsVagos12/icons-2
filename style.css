@@ -97,7 +97,7 @@ body {
 .wrapper .spotify:hover span,
 .wrapper .spotify:hover .tooltip,
 .wrapper .spotify:hover .tooltip:before {
-  background: #46c1f6;
+  background: #00ff00;
 }
 .wrapper .instagram:hover span,
 .wrapper .instagram:hover .tooltip,
@@ -108,4 +108,9 @@ body {
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip:before {
   background: #de463b;
+}
+.wrapper .discord:hover span,
+.wrapper .discord:hover .tooltip,
+.wrapper .discord:hover .tooltip:before {
+  background: #0080ff;
 }
